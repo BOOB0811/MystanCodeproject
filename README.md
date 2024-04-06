@@ -14,6 +14,6 @@ Watch my *[DEMO VIDEOS!].(https://www.youtube.com/playlist?list=PLoKHwsUnppp_pSa
 * [BeeperRow](https://github.com/BOOB0811/MystanCodeproject/blob/main/stanCodeProject/BeeperRow.py)
   *while loop application & recognize common Bugs
 * [BeeperRowAdv](https://github.com/BOOB0811/MystanCodeproject/blob/main/stanCodeProject/BeeperRowAdv.py)
-  *if ioop application 
+  *if loop application 
 * [Steeplechase](https://github.com/BOOB0811/MystanCodeproject/blob/main/stanCodeProject/Steeplechase.py)
   *All loop applications & basic python semantics
